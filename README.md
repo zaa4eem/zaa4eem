@@ -23,11 +23,11 @@ src="https://img.shields.io/github/followers/zaa4eem?logo=github&style=for-the-b
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-### Socials
+ Socials
 
 <p align="left"> <a href="https://discord.com/users/</> zaa4eem ✰#3793" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/zaa4eem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-### Badges
+ Badges
 
-<b>My GitHub Stats</b>
+<b>Моя статистика GitHub</b>
 
 <a href="http://www.github.com/zaa4eem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zaa4eem&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
