@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Артём
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Артём
 =============================================================================================================================
 
 Я начинающий Python разработчик
@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 биография
 
 * 🌍  Я нахожусь в Russia
-* ✉️  Связь со мной - [zyzyzaza202gmail.com](mailto:zyzyzaza202gmail.com)
+* ✉️  Связь со мной - [zyzyzaza20gmail.com](mailto:zyzyzaza20gmail.com)
 * 🧠  Сейчас изучаю Django
 
 <a href="https://www.github.com/zaa4eem" target="_blank" rel="noreferrer"><img
@@ -23,10 +23,9 @@ src="https://img.shields.io/github/followers/zaa4eem?logo=github&style=for-the-b
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
- Socials
+ Социальные сети
 
 <p align="left"> <a href="https://discord.com/users/</> zaa4eem ✰#3793" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/zaa4eem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
- Badges
 
 <b>Моя статистика GitHub</b>
 
