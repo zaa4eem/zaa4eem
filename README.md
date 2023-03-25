@@ -6,13 +6,13 @@
 
 биография
 
-* 🌍  Я нахожусь в Russia
+* 🌍  Я нахожусь в России
 * ✉️  Связь со мной - [zyzyzaza20gmail.com](mailto:zyzyzaza20gmail.com)
-* 🧠  Сейчас изучаю Django
+* 🧠  Сейчас изучаю Django + Rest Framework
 
 <a href="https://www.github.com/zaa4eem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zaa4eem?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
-### Skills
+### Навыки
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/zaa4eem?logo=github&style=for-the-b
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
- Социальные сети
+### Социальные сети
 
 <p align="left"> <a href="https://discord.com/users/</> zaa4eem ✰#3793" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/zaa4eem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
