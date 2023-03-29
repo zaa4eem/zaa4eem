@@ -1,4 +1,4 @@
-Привет !Меня зовут Артём [](https://bipbap.ru/wp-content/uploads/2021/07/1f4541c1ebc05b9e7fe2915f4f5b592bb61bb454_hq.gif)
+Привет ! Меня зовут Артём 
 =============================================================================================================================
 
 Я начинающий Python BackEnd Developer
@@ -12,6 +12,7 @@
 
 <a href="https://www.github.com/zaa4eem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zaa4eem?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+
 ### Навыки
 
 <p align="left">
