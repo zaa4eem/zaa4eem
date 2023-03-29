@@ -1,4 +1,4 @@
-Привет ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://bipbap.ru/wp-content/uploads/2021/07/1f4541c1ebc05b9e7fe2915f4f5b592bb61bb454_hq.gif))Меня зовут Артём
+Привет !Меня зовут Артём [](https://bipbap.ru/wp-content/uploads/2021/07/1f4541c1ebc05b9e7fe2915f4f5b592bb61bb454_hq.gif)
 =============================================================================================================================
 
 Я начинающий Python BackEnd Developer
